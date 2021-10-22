@@ -1,4 +1,4 @@
-## Hi there! 👋<br> I'm Frans Niccolò, a 17yold portuguese citizen.
+## Hi there! 👋<br> I'm Francisco Lisboa, a 17yold portuguese citizen.
 
 For whatever reason that brought you here, welcome to my github profile. I hope you're having a g'day :)<br>
 I'm an on-going highschool student, at Portugal, simultaneously self-learning how to programme.
